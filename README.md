@@ -25,7 +25,7 @@ This repository contains the code for the Touché Café website, a beautiful and
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/touche-cafe.git
-```
+
 
 
 ### 2. Open `index.html` in your browser
